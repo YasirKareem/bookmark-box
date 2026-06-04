@@ -8,8 +8,15 @@ A Firefox bookmark manager with preview thumbnails, smart search, folder organiz
 
 ## Screenshots
 
-Screenshots will be added when the extension is published.
-See [`screenshots/`](screenshots/) for the list of planned images.
+| | |
+|---|---|
+| ![Full library view](screenshots/full-app.png) | ![Sidebar](screenshots/sidebar.png) |
+| Full-page library view | Sidebar view with thumbnails |
+| ![Details panel](screenshots/details-panel.png) | ![Broken-link scan](screenshots/broken-links.png) |
+| Bookmark details panel | Broken-link scanner results |
+
+![Insights dashboard](screenshots/insights.png)
+*Library insights and statistics*
 
 ---
 

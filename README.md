@@ -133,4 +133,4 @@ See [SUPPORT.md](SUPPORT.md) for what to include in a bug report.
 
 ## License
 
-MIT &nbsp;·&nbsp; © 2025 Yasir Kareem
+MIT &nbsp;·&nbsp; © 2026 Yasir Kareem

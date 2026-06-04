@@ -97,4 +97,4 @@ To remove all data stored by Bookmark Box:
 
 For questions about privacy, open an issue in this repository or contact:
 
-yasir8kareem@gmail.com
+hallo@yasirkareem.com

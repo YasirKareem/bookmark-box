@@ -44,7 +44,7 @@ Open a GitHub issue and prefix the title with `[Question]:`. There is no separat
 
 ## Contact
 
-yasir8kareem@gmail.com
+hallo@yasirkareem.com
 
 GitHub Issues is the preferred support channel. Email is available for sensitive matters.
 Response is best-effort.

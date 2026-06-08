@@ -34,7 +34,7 @@ Bookmark Box replaces the default Firefox bookmark workflow with a full-featured
 - Access your full library in a sidebar or a dedicated full-page view
 
 **Preview thumbnails**
-- Capture a screenshot of any saved page
+- Capture a representative image from the page's own metadata (og:image, Twitter card, JSON-LD), with screenshot fallback
 - Bulk capture queue with progress tracking, pause, and resume
 - Thumbnails stored in your browser (IndexedDB) — never uploaded
 
@@ -49,7 +49,7 @@ Bookmark Box replaces the default Firefox bookmark workflow with a full-featured
 - Detect and merge duplicate URLs
 
 **Maintenance tools**
-- Broken-link scanner: identify dead or redirecting bookmarks
+- Broken-link scanner: identify dead or redirecting bookmarks, with per-item Retry, Dismiss, and Delete
 - Duplicate detector: find and clean up repeated URLs
 - Empty-folder cleanup
 - Trash with capacity display and one-click restore
@@ -68,9 +68,9 @@ Bookmark Box replaces the default Firefox bookmark workflow with a full-featured
 
 ## Installation
 
-**Once published on Firefox Add-ons (AMO):**
+**Firefox Add-ons (AMO):**
 
-Installation will be available through [Firefox Add-ons](https://addons.mozilla.org). A direct link will be added here when the listing goes live.
+Bookmark Box is available on the [Firefox Add-ons store](https://addons.mozilla.org). Search for **Bookmark Box** to install.
 
 **Manual installation (for testing):**
 
@@ -113,6 +113,12 @@ No data is sent to any server. No analytics. No tracking. No crash reporting.
 All bookmarks, thumbnails, tags, and settings are stored on your device only. Data is never uploaded or shared without your explicit action.
 
 See [PRIVACY.md](PRIVACY.md) for the complete statement.
+
+---
+
+## Changelog
+
+See [CHANGELOG.md](CHANGELOG.md) for release history.
 
 ---
 
